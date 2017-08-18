@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION.iml" filepath="$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION_main.iml" group="KIBO_TEST_AUTOMATION" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KIBO_TEST_AUTOMATION_test.iml" group="KIBO_TEST_AUTOMATION" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sssdddd.iml" filepath="$PROJECT_DIR$/.idea/modules/sssdddd.iml" group="sssdddd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sssdddd/sssdddd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sssdddd/sssdddd_main.iml" group="sssdddd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sssdddd/sssdddd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sssdddd/sssdddd_test.iml" group="sssdddd" />
+      <module fileurl="file://$PROJECT_DIR$/ssss/ssss.iml" filepath="$PROJECT_DIR$/ssss/ssss.iml" />
+    </modules>
+  </component>
+</project>
